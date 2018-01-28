@@ -1,0 +1,2 @@
+# project
+hosting safelink generate
